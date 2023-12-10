@@ -48,7 +48,6 @@
         "ngrok": "^4.3.3",
         "openai": "^4.20.1",
         "qs": "6.11.2",
-        "socket.io": "4.7.2",
         "swagger-ui-express": "5.0.0",
         "uuid": "9.0.1",
         "xss": "^1.0.14",
