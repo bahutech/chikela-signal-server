@@ -2381,7 +2381,7 @@ function toggleWhiteboard() {
     if (!wbIsOpen) rc.sound('open');
     let whiteboard = rc.getId('whiteboard');
     whiteboard.classList.toggle('show');
-    whiteboard.style.top = '50%';
+    whiteboard.style.top = '40%';
     whiteboard.style.left = '50%';
     wbIsOpen = wbIsOpen ? false : true;
 }
